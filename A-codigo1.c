@@ -28,3 +28,14 @@ int main() {
 
     return 0;
 }
+//a-)
+//Para NMax = 1000 e n = 10 temos um tempo médio de = 0,000001 segundos
+//b-)
+//n = 15 temos um tempo = 0,000006 segundos  
+//n = 20 temos um tempo = 0,000057 segundos 
+//n = 25 temos um tempo = 0,000607 segundos 
+//n = 30 temos um tempo = 0,006766 segundos 
+//Em n = 35 chegou no ponto proibitivo
+
+//c-)
+//Assim como na teoria, na prática o código demonstra que o tempo aumenta exponencialmente em função de n, como foi registrado o código apresentou valores distintos e cada vez maiores à medida que n aumenta, até n chegar em certo ponto onde atingiu os valores proibitivos.
